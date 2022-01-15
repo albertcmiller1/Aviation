@@ -1,0 +1,19 @@
+C.A.S. => clearing turns, altitude, safe area
+
+A.  steep bank 
+B.  moderate bank 
+C.  shallow bank 
+D.  moderate bank 
+E.  steep bank 
+
+
+                                   ___ --B-- ___
+                                  /             \
+    /\                           /               \
+    ||                          |                 |
+    ||        F                 C                 A
+   wind       |                 |
+               E               /             enter s-turn  
+                \___       ___/
+                     --D--
+
