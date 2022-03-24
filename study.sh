@@ -15,5 +15,4 @@ echo
 echo 
 echo 
 
-
 cat $dir/$file 
