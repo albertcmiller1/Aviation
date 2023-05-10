@@ -16,3 +16,6 @@ echo
 echo 
 
 cat $dir/$file 
+
+# test test 
+
