@@ -1,3 +1,5 @@
+dir=$1
+
 #dir=manouvers
 dir=pattern_work
 
@@ -10,12 +12,9 @@ randnum=$((1 + $RANDOM % $numfiles))
 # use sed and the random number to grab the random file 
 file=$(ls -1 $dir | sed -n "$randnum"p)
 
-echo "$dir ---> $file"
+echo "$dir ---> $file" && sleep 3
 echo 
 echo 
 echo 
 
 cat $dir/$file 
-
-# test test 
-
